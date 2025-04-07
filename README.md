@@ -26,7 +26,7 @@ Colección completa de ejercicios prácticos para dominar los fundamentos de HTM
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/WilenaRodriguezzz/Ejercicios-Basicos-HTML.git
+git clone https://github.com/MilenaRodriguezzz/Ejercicios-Basicos-HTML.git
 cd Ejercicios-Basicos-HTML
 start index.html  # Windows
 open index.html  # Mac
