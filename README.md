@@ -6,19 +6,19 @@ Colección completa de ejercicios prácticos para dominar los fundamentos de HTM
 
 | Ejercicio | Archivo | Descripción |
 |-----------|---------|-------------|
-| [A.01] Diario! Diario! | [`periodico.html`](./periodico.html) | Estructura de periódico con titulares |
-| [A.02] Viajando de aquí para allá | [`viajes.html`](./viajes.html) | Navegación entre páginas |
-| [A.03] Anclados | [`anclas.html`](./anclas.html) | Enlaces internos |
-| [A.04] Fotos | [`galeria.html`](./galeria.html) | Galería de imágenes navegable |
-| [A.05] Anclados 2 | [`noticias.html`](./noticias.html) | Enlaces a anclas externas |
-| [A.06] Listados | [`paises.html`](./paises.html) | Lista ordenada de países |
-| [A.07] Listados 2 | [`periodicos.html`](./periodicos.html) | Lista de enlaces a periódicos |
-| [A.08] Listados 3 | [`terminos.html`](./terminos.html) | Lista de definiciones |
-| [A.09] Listados 4 | [`lenguajes.html`](./lenguajes.html) | Lista de lenguajes de programación |
-| [A.10] Tabla | [`empleados.html`](./empleados.html) | Tabla de sueldos |
-| [A.11] Tabla 2 | [`periodicos-tabla.html`](./periodicos-tabla.html) | Tabla de periódicos por país |
-| [A.12] Tabla 3 | [`equipos.html`](./equipos.html) | Tabla de equipos deportivos |
-| [A.13] Anclados | [`confederaciones.html`](./confederaciones.html) | Tabla con enlaces externos |
+| [A.01] Diario! Diario! | [`clase1Diario.html`](./clase1Diario.html) | Estructura de un periódico con secciones y titulares |
+| [A.02] Viajando de aquí para allá | [`indexViajando.html`](./indexViajando.html) | Navegación entre páginas mediante hipervínculos |
+| [A.03] Anclados | [`anclados.html`](./anclados.html) | Enlaces internos a secciones dentro de la misma página |
+| [A.04] Fotos | [`imagenesUno.html`](./imagenesUno.html) | Galería circular con navegación entre imágenes |
+| [A.05] Anclados 2 | [`ancladosDos.html`](./ancladosDos.html) | Enlaces a anclas externas en otra página |
+| [A.06] Listados | [`listaPaises.html`](./listaPaises.html) | Lista ordenada de países más poblados |
+| [A.07] Listados 2 | [`listadesordenada.html`](./listadesordenada.html) | Lista desordenada con enlaces a periódicos |
+| [A.08] Listados 3 | [`listaDefinicion.html`](./listaDefinicion.html) | Lista de definiciones con términos comunes |
+| [A.09] Listados 4 | [`listaProgramacion.html`](./listaProgramacion.html) | Lista de lenguajes de programación y enlaces útiles |
+| [A.10] Tabla | [`tablaEmpleados.html`](./tablaEmpleados.html) | Tabla de empleados y sueldos |
+| [A.11] Tabla 2 | [`tablaPeriodicos.html`](./tablaPeriodicos.html) | Tabla de periódicos agrupados por país |
+| [A.12] Tabla 3 | [`equiposDelMundo.html`](./equiposDelMundo.html) | Tabla de equipos organizada por confederación y país |
+
 
 ---
 
